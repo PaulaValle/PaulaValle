@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulaValle
 - 👀 I’m interested in Web Design, Front-End, ...
-- 🌱 I’m currently learning with SheCodes
+- 🌱 I’m currently learning with Udemy
 - 💞️ I’m looking to collaborate on big projects so I can expand my knowledge
 - 📫 How to reach me paula.valle1.romero@gmail.com
 
